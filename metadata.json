@@ -1,0 +1,8 @@
+{
+  "name": "AATA CHAKKI PRO",
+  "description": "Complete offline-first flour mill (Aata Chakki) management system for wheat grinding, flour & bran sales, customer/supplier khata ledgers, accounting, and Urdu/English reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
